@@ -1,0 +1,31 @@
+ingred_id,ingred_name,carton_price,serv_per_carton,carton_quantity
+ing01,bread,9.5,20,50
+ing02,ham,10.23,20,25
+ing03,swiss,8.65,20,25
+ing04,gouda,7.54,20,25
+ing05,chicken,7.51,20,25
+ing06,avocado,4.4,25,20
+ing07,hotdog bread,9.5,20,30
+ing08,chilean sausage,10.66,15,25
+ing09,pickled onion,6.87,30,30
+ing10,sweet potato,4.36,44,20
+ing11,chicharron,7.7,26,25
+ing12,berlina,30,24,40
+ing13,crepe,15,10,40
+ing14,strawberries,5.2,10,10
+ing15,banana,2.1,17,10
+ing16,milk,10,15,10
+ing17,chirimoya,13,23,10
+ing18,guanabana,13,25,10
+ing19,lucuma,13,18,10
+ing20,mango,10,30,10
+ing21,greek yogurt,6.22,30,15
+ing22,honey,12.37,36,10
+ing23,grape,6.6,18,10
+ing24,pineapple,14.2,26,10
+ing25,peach,7.8,20,10
+ing26,watermelon,16.38,31,10
+ing27,lemon,4.4,26,10
+ing28,orange,5.77,23,10
+ing29,potatoes,8.99,42,40
+ing30,seasonings,10.1,150,25

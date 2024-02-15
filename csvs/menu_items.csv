@@ -1,0 +1,42 @@
+item_id,item_name,item_category,item_size,price
+01avch02,Avocado Chicken,Sandwiches,Half,5
+01avch03,Avocado Chicken,Sandwiches,Whole,8.62
+01hmgd02,Ham and Gouda,Sandwiches,Half,4.5
+01hmgd03,Ham and Gouda,Sandwiches,Whole,7
+01hmsw02,Ham and Swiss,Sandwiches,Half,4.6
+01hmsw03,Ham and Swiss,Sandwiches,Whole,7.23
+01cmch02,Completo Chileno,Sandwiches,Half,6
+01cmch03,Completo Chileno,Sandwiches,Whole,12
+01chich02,Pan con Chicharron,Sandwiches,Regular,10
+02brln02,Berlina,Desserts,Regular,3.77
+02crep02,Crepes,Desserts,Regular,5
+03srba01,Strawberry Banana,Smoothie,Mini,3.5
+03srba02,Strawberry Banana,Smoothie,Regular,5
+03srba03,Strawberry Banana,Smoothie,Large,6
+03ciri01,Chirimoya,Smoothie,Mini,4
+03ciri02,Chirimoya,Smoothie,Regular,5.5
+03ciri03,Chirimoya,Smoothie,Large,6.5
+03guan01,Guanabana,Smoothie,Mini,4
+03guan02,Guanabana,Smoothie,Regular,5.5
+03guan03,Guanabana,Smoothie,Large,6.5
+03lucu01,Lucuma,Smoothie,Mini,4
+03lucu02,Lucuma,Smoothie,Regular,5.5
+03lucu03,Lucuma,Smoothie,Large,6.5
+03mgla01,Mango Lassi,Smoothie,Mini,4
+03mgla02,Mango Lassi,Smoothie,Regular,5.5
+03mgla03,Mango Lassi,Smoothie,Large,6.5
+04gpip01,Grape/Pineapple/Peach,Fresh Juice,Mini,3
+04gpip02,Grape/Pineapple/Peach,Fresh Juice,Regular,3.25
+04gpip03,Grape/Pineapple/Peach,Fresh Juice,Large,3.5
+04ngpp01,Orange/Peach/Pineapple,Fresh Juice,Mini,3
+04ngpp02,Orange/Peach/Pineapple,Fresh Juice,Regular,3.25
+04ngpp03,Orange/Peach/Pineapple,Fresh Juice,Large,3.5
+04wtpe01,Watermelon/Peach,Fresh Juice,Mini,3
+04wtpe02,Watermelon/Peach,Fresh Juice,Regular,3.25
+04wtpe03,Watermelon/Peach,Fresh Juice,Large,3.5
+04ngpi01,Orange/Pineapple,Fresh Juice,Mini,3
+04ngpi02,Orange/Pineapple,Fresh Juice,Regular,3.25
+04ngpi03,Orange/Pineapple,Fresh Juice,Large,3.5
+04fry01,Belgian Frites,Side,Mini,2
+04fry02,Belgian Frites,Side,Regular,2.5
+04fry03,Belgian Frites,Side,Large,3
