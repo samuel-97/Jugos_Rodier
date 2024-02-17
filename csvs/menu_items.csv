@@ -37,6 +37,6 @@ item_id,item_name,item_category,item_size,price
 04ngpi01,Orange/Pineapple,Fresh Juice,Mini,3
 04ngpi02,Orange/Pineapple,Fresh Juice,Regular,3.25
 04ngpi03,Orange/Pineapple,Fresh Juice,Large,3.5
-04fry01,Belgian Frites,Side,Mini,2
-04fry02,Belgian Frites,Side,Regular,2.5
-04fry03,Belgian Frites,Side,Large,3
+05fry01,Belgian Frites,Side,Mini,2
+05fry02,Belgian Frites,Side,Regular,2.5
+05fry03,Belgian Frites,Side,Large,3
