@@ -9,6 +9,7 @@ that includes a few new menu items that I added. I consulted my father, who spen
 most of his childhood working alongside his father in that shop, about what 
 items to include or not include. 
 
-This project is based on a YouTube Tutorial from Adam Finer - Learn BI
+This project is based in part on a YouTube Tutorial from Adam Finer - Learn BI
 Online and his video "Data Analyst Portfolio Project - SQL | Step-by-Step
-Guide From SQL Database to Interactive Dashboard"
+Guide From SQL Database to Interactive Dashboard", but the data creation is all 
+my own original thoughts and ideas.
