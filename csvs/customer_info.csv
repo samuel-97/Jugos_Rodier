@@ -48,9 +48,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 46, Beckett, Richardson,9262 Magnolia Street,,93301,Bakersfield,CA,USA
 47, Claire, Duke,928 Redwood Avenue,,93309,Bakersfield,CA,USA
 48, Henry, Liu,7563 Willowbrook Lane,,93305,Bakersfield,CA,USA
-49," Raegan
-
-", Cook,6619 Redwood Road,,93304,Bakersfield,CA,USA
+49, Raegan, Cook,6619 Redwood Road,,93304,Bakersfield,CA,USA
 50, Caleb, Castro,8253 Maple Avenue,,93309,Bakersfield,CA,USA
 51, Nicholas, Buchanan,7727 Laurel Road,,93308,Bakersfield,CA,USA
 52, Jason, Rojas,8503 Birchwood Street,,93308,Bakersfield,CA,USA
@@ -111,8 +109,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 107, Ariel, Walker,4397 Elm Avenue,,93304,Bakersfield,CA,USA
 108, Emmanuel, Stewart,6503 Birchwood Road,,93304,Bakersfield,CA,USA
 109, Adrian, Holland,5379 River Road,bldg 36,93304,Bakersfield,CA,USA
-110, Gianna," Yu
-",3987 Chestnut Lane,bldg 13,93304,Bakersfield,CA,USA
+110, Gianna, Yu,3987 Chestnut Lane,bldg 13,93304,Bakersfield,CA,USA
 111, Ava, Pham,3471 Oak Boulevard,,93301,Bakersfield,CA,USA
 112, Tristan, Mitchell,2421 Magnolia Avenue,,93301,Bakersfield,CA,USA
 113, Esther, Ward,2603 Laurel Road,apt 31,93304,Bakersfield,CA,USA
@@ -140,9 +137,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 135, Elena, Chan,2146 Lincoln Avenue,,93304,Bakersfield,CA,USA
 136, Michael, Morton,4250 Redwood Avenue,,93308,Bakersfield,CA,USA
 137, Lillian, Duke,5159 Washington Drive,,93301,Bakersfield,CA,USA
-138," Raegan
-
-", Mayo,7349 Acorn Avenue,,93308,Bakersfield,CA,USA
+138,Raegan, Mayo,7349 Acorn Avenue,,93308,Bakersfield,CA,USA
 139, Jason, Lawson,2582 Willow Avenue,bldg 24,93308,Bakersfield,CA,USA
 140, Ethan, Russell,6193 Oakridge Avenue,,93304,Bakersfield,CA,USA
 141, Adeline, Garcia,5024 Elmwood Lane,,93304,Bakersfield,CA,USA
@@ -223,8 +218,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 216, Jacob, Nguyen,3456 Polk Drive,,93304,Bakersfield,CA,USA
 217, Sebastian, Walker,1732 Garfield Road,,93301,Bakersfield,CA,USA
 218, Grayson, Rodriguez,4756 Adams Lane,,93304,Bakersfield,CA,USA
-219, Zoe, Hernandez,"1594 Pine Street
-",bldg 2,93304,Bakersfield,CA,USA
+219, Zoe, Hernandez,"1594 Pine Street",bldg 2,93304,Bakersfield,CA,USA
 220, Levi, Buchanan,9969 Polk Drive,,93304,Bakersfield,CA,USA
 221, Caleb, Buchanan,978 Dogwood Lane,,93301,Bakersfield,CA,USA
 222, Peyton, Holland,3327 Elmwood Lane,bldg 4,93301,Bakersfield,CA,USA
@@ -258,10 +252,8 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 250, Evelyn, McCall,2123 Taft Lane,,93301,Bakersfield,CA,USA
 251, Reagan, Dixon,212 Redwood Lane,apt 48,93304,Bakersfield,CA,USA
 252, Bennett, Reynolds,8978 Monroe Drive,unit 11,93307,Bakersfield,CA,USA
-253, Gabriel, Fitzpatrick,"9423 Pine Street
-",bldg 45,93304,Bakersfield,CA,USA
-254, Jeremiah," Yu
-",371 Coolidge Avenue,,93307,Bakersfield,CA,USA
+253, Gabriel, Fitzpatrick,"9423 Pine Street",bldg 45,93304,Bakersfield,CA,USA
+254, Jeremiah,Yu,371 Coolidge Avenue,,93307,Bakersfield,CA,USA
 255, Roman, Adams,829 Magnolia Street,,93301,Bakersfield,CA,USA
 256, Nora, Moore,2022 Walnut Street,,93301,Bakersfield,CA,USA
 257, Xavier, Scott,5610 Chestnut Street,,93304,Bakersfield,CA,USA
@@ -269,9 +261,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 259, Grayson, Morales,1241 Juniper Street,apt 27,93301,Bakersfield,CA,USA
 260, Leah, Torres,4750 Juniper Street,bldg 47,93304,Bakersfield,CA,USA
 261, Gianna, Duncan,6966 Oakwood Drive,,93304,Bakersfield,CA,USA
-262," Raegan
-
-", McDaniel,4048 Hayes Street,,93305,Bakersfield,CA,USA
+262,Raegan, McDaniel,4048 Hayes Street,,93305,Bakersfield,CA,USA
 263, Zoe, Deleon,9939 Oakwood Drive,,93304,Bakersfield,CA,USA
 264, Claire, Castro,9180 Spruce Lane,,93301,Bakersfield,CA,USA
 265, Grace, Davenport,592 Spruce Avenue,bldg 41,93308,Bakersfield,CA,USA
@@ -286,8 +276,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 274, Dylan, Galloway,5154 Laurel Road,,93301,Bakersfield,CA,USA
 275, Jordyn, Keller,2659 Rosewood Lane,,93301,Bakersfield,CA,USA
 276, Eli, Burgess,1583 Pinehurst Drive,,93304,Bakersfield,CA,USA
-277, Zoey, Cooper,"952 Pine Street
-",apt 32,93301,Bakersfield,CA,USA
+277, Zoey, Cooper,"952 Pine Street",apt 32,93301,Bakersfield,CA,USA
 278, Claire, Mason,9092 Magnolia Drive,,93306,Bakersfield,CA,USA
 279, Cameron, Stewart,5508 Adams Street,unit 19,93309,Bakersfield,CA,USA
 280, Timothy, Nguyen,1982 Maplewood Avenue,,93304,Bakersfield,CA,USA
@@ -447,9 +436,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 434, Mia, Sanchez,760 Cherry Avenue,apt 26,93304,Bakersfield,CA,USA
 435, Madelyn, Scott,6053 Monroe Street,,93307,Bakersfield,CA,USA
 436, Thomas, Edwards,6145 Magnolia Lane,,93309,Bakersfield,CA,USA
-437," Raegan
-
-", Edwards,354 Cedar Lane,,93301,Bakersfield,CA,USA
+437,Raegan, Edwards,354 Cedar Lane,,93301,Bakersfield,CA,USA
 438, Miles, Hayes,6266 Laurel Avenue,,93306,Bakersfield,CA,USA
 439, Emmett, Lynch,1465 Chestnut Lane,,93301,Bakersfield,CA,USA
 440, Aubrey, Liu,1595 Maple Avenue,,93307,Bakersfield,CA,USA
@@ -612,8 +599,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 596, Elena, Gutierrez,4903 Birchwood Street,,93301,Bakersfield,CA,USA
 597, Isla, Kim,5659 Oakdale Avenue,,93304,Bakersfield,CA,USA
 598, Isabelle, Mitchell,6000 Arthur Road,,93304,Bakersfield,CA,USA
-599, Claire," Yu
-",9530 McKinley Road,bldg 31,93304,Bakersfield,CA,USA
+599, Claire, Yu,9530 McKinley Road,bldg 31,93304,Bakersfield,CA,USA
 600, Jocelyn, Reynolds,6483 Redwood Lane,,93301,Bakersfield,CA,USA
 601, Zoey, Shaffer,3133 Birchcrest Avenue,,93304,Bakersfield,CA,USA
 602, Natalie, Reynolds,7652Main Street,,93304,Bakersfield,CA,USA
@@ -738,9 +724,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 719, Madison, McCall,7591 Acorn Road,,93306,Bakersfield,CA,USA
 720, Wyatt, Griffith,8985 Birchcrest Avenue,,93304,Bakersfield,CA,USA
 721, Daniel, Riley,2035 Birch Street,,93304,Bakersfield,CA,USA
-722," Raegan
-
-", Sullivan,3001 Willow Lane,,93309,Bakersfield,CA,USA
+722,Raegan, Sullivan,3001 Willow Lane,,93309,Bakersfield,CA,USA
 723, Danielle, Rivera,5603 Taft Lane,,93304,Bakersfield,CA,USA
 724, Mackenzie, Russell,6526 Harding Lane,,93304,Bakersfield,CA,USA
 725, Christopher, Myers,4827 Oak Avenue,,93301,Bakersfield,CA,USA
@@ -862,11 +846,9 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 840, Chloe, Roman,2752 Redwood Road,,93308,Bakersfield,CA,USA
 841, Naomi, Huber,6347 Rosewood Boulevard,unit 1,93308,Bakersfield,CA,USA
 842, Jordyn, Lee,1881 Sunset Boulevard,bldg 44,93307,Bakersfield,CA,USA
-843, Penelope, Lawson,"2600 Pine Street
-",apt 47,93307,Bakersfield,CA,USA
+843, Penelope, Lawson,2600 Pine Street,apt 47,93307,Bakersfield,CA,USA
 844, John, Baker,8960 Willowcrest Lane,,93304,Bakersfield,CA,USA
-845, Sofia," Yu
-",3641 Oakwood Avenue,,93308,Bakersfield,CA,USA
+845, Sofia, Yu,3641 Oakwood Avenue,,93308,Bakersfield,CA,USA
 846, Nora, Anderson,5719 Laurel Lane,,93301,Bakersfield,CA,USA
 847, Chloe, Perez,4976 Birchwood Street,apt 38,93309,Bakersfield,CA,USA
 848, Danielle, Keller,4022 Sycamore Street,,93304,Bakersfield,CA,USA
@@ -927,9 +909,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 903, Cole, Wright,4776 Truman Street,,93306,Bakersfield,CA,USA
 904, Valeria, Rogers,6833 Pine Lane,unit 16,93305,Bakersfield,CA,USA
 905, Chase, Deleon,3135 Cedarbrook Avenue,,93307,Bakersfield,CA,USA
-906," Raegan
-
-", Silva,1687 Lincoln Road,,93301,Bakersfield,CA,USA
+906,Raegan, Silva,1687 Lincoln Road,,93301,Bakersfield,CA,USA
 907, Rebecca, Kidd,1898 Grant Avenue,,93305,Bakersfield,CA,USA
 908, Nicholas, Hopkins,8922 Garfield Lane,apt 38,93301,Bakersfield,CA,USA
 909, Thomas, Woods,4852 Coolidge Street,,93304,Bakersfield,CA,USA
@@ -1051,8 +1031,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 1023, Ariana, Ochoa,4785 Walnut Lane,,93304,Bakersfield,CA,USA
 1024, Emmett, Henderson,3940 Lakeside Drive,,93306,Bakersfield,CA,USA
 1025, Isabelle, Duffy,3635 Autumn Avenue,,93301,Bakersfield,CA,USA
-1026, Kingston," Yu
-",9628 Elm Street,apt 5,93307,Bakersfield,CA,USA
+1026, Kingston, Yu,9628 Elm Street,apt 5,93307,Bakersfield,CA,USA
 1027, Jasmine, Howard,4268 Adams Lane,,93301,Bakersfield,CA,USA
 1028, Isabella, Stout,7723 Dogwood Lane,unit 39,93304,Bakersfield,CA,USA
 1029, Nora, Casey,6134 Mapleview Lane,bldg 10,93304,Bakersfield,CA,USA
@@ -1286,9 +1265,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 1256, Emmett, Murphy,1021 Pinecrest Avenue,,93304,Bakersfield,CA,USA
 1257, Arthur, Carlson,5880 Wilson Drive,,93305,Bakersfield,CA,USA
 1258, Maya, Davis,5060 Chestnut Street,,93304,Bakersfield,CA,USA
-1259," Raegan
-
-", Kim,9290 Lakeview Drive,,93304,Bakersfield,CA,USA
+1259,Raegan, Kim,9290 Lakeview Drive,,93304,Bakersfield,CA,USA
 1260, Audrey, Gonzalez,4605 Chestnut Lane,,93307,Bakersfield,CA,USA
 1261, Jason, Rivera,7348 Grove Street,,93304,Bakersfield,CA,USA
 1262, Blake, Munoz,6497 Magnolia Drive,,93308,Bakersfield,CA,USA
@@ -1381,8 +1358,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 1347, Lily, Williams,2703 Laurel Road,,93301,Bakersfield,CA,USA
 1348, William, Morales,3091 Maple Lane,,93301,Bakersfield,CA,USA
 1349, Tristan, Perez,147 Elmwood Lane,apt 43,93301,Bakersfield,CA,USA
-1350, Colton," Yu
-",4236 Roosevelt Lane,unit 42,93309,Bakersfield,CA,USA
+1350, Colton, Yu,4236 Roosevelt Lane,unit 42,93309,Bakersfield,CA,USA
 1351, Easton, Mendoza,9368 Redwood Street,unit 43,93301,Bakersfield,CA,USA
 1352, Aaron, Lawson,1584 Sycamore Drive,,93301,Bakersfield,CA,USA
 1353, Isabella, Duffy,2509 Jackson Drive,,93304,Bakersfield,CA,USA
@@ -1447,9 +1423,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 1412, Jade, Cox,7160 Magnolia Avenue,,93301,Bakersfield,CA,USA
 1413, Camila, Rhodes,5440 Arthur Road,,93304,Bakersfield,CA,USA
 1414, Levi, Burgess,4833 Magnolia Lane,,93301,Bakersfield,CA,USA
-1415," Raegan
-
-", Cooper,2494 Dogwood Avenue,,93301,Bakersfield,CA,USA
+1415,Raegan, Cooper,2494 Dogwood Avenue,,93301,Bakersfield,CA,USA
 1416, Mackenzie, Fisher,5725 Acorn Street,,93304,Bakersfield,CA,USA
 1417, Thomas, Mayo,4764 Laurel Lane,,93308,Bakersfield,CA,USA
 1418, Christopher, Davenport,6683 Cedarcrest Drive,,93301,Bakersfield,CA,USA
@@ -1457,8 +1431,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 1420, Olivia, Perez,2534 Adams Street,,93309,Bakersfield,CA,USA
 1421, Brooks, Burgess,4151 Willow Lane,,93301,Bakersfield,CA,USA
 1422, Thomas, Perez,8164 Pine Street,apt 48,93305,Bakersfield,CA,USA
-1423, Tristan," Yu
-",6470 Elmwood Street,,93304,Bakersfield,CA,USA
+1423, Tristan, Yu,6470 Elmwood Street,,93304,Bakersfield,CA,USA
 1424, Thomas, Woods,8343 Kennedy Drive,apt 34,93301,Bakersfield,CA,USA
 1425, Finn, Aguilar,6647 Madison Avenue,,93305,Bakersfield,CA,USA
 1426, Ariella, Cooper,2308 Elmwood Street,,93309,Bakersfield,CA,USA
@@ -1626,13 +1599,10 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 1588, Gabriella, Kirby,8814 Roosevelt Lane,apt 27,93301,Bakersfield,CA,USA
 1589, Andrew, Delgado,8390 Cedarcrest Drive,unit 46,93304,Bakersfield,CA,USA
 1590, Ethan, Lee,6710 McKinley Avenue,,93308,Bakersfield,CA,USA
-1591," Raegan
-
-", Aguilar,6193 Rosewood Road,bldg 45,93304,Bakersfield,CA,USA
+1591,Raegan, Aguilar,6193 Rosewood Road,bldg 45,93304,Bakersfield,CA,USA
 1592, Roman, Evans,4378 Elm Street,,93301,Bakersfield,CA,USA
 1593, Joseph, Taylor,3905 Kennedy Drive,,93301,Bakersfield,CA,USA
-1594, Lillian," Yu
-",3488 Harding Boulevard,,93301,Bakersfield,CA,USA
+1594, Lillian, Yu,3488 Harding Boulevard,,93301,Bakersfield,CA,USA
 1595, Jordyn, Martin,231 Cedarhurst Lane,unit 19,93304,Bakersfield,CA,USA
 1596, Robert, Gutierrez,380 Rosewood Drive,,93304,Bakersfield,CA,USA
 1597, Nicholas, Shields,6121 Coolidge Street,bldg 18,93304,Bakersfield,CA,USA
@@ -1740,8 +1710,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 1699, Joseph, Casey,4067 Autumn Avenue,,93309,Bakersfield,CA,USA
 1700, Jason, Rogers,6685 Harding Boulevard,bldg 30,93308,Bakersfield,CA,USA
 1701, Leah, Myers,2025 Rosewood Drive,apt 41,93301,Bakersfield,CA,USA
-1702, Charlotte," Yu
-",2873 Chestnut Lane,,93301,Bakersfield,CA,USA
+1702, Charlotte, Yu,2873 Chestnut Lane,,93301,Bakersfield,CA,USA
 1703, Timothy, Davis,7803 Garfield Lane,bldg 15,93304,Bakersfield,CA,USA
 1704, David, Reed,5367 Maple Avenue,,93304,Bakersfield,CA,USA
 1705, Brayden, Lopez,8116 Maplewood Avenue,bldg 11,93301,Bakersfield,CA,USA
@@ -1859,8 +1828,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 1817, Julia, Allen,896 Sycamore Street,,93301,Bakersfield,CA,USA
 1818, Lucy, Myers,5961 Willowbrook Lane,apt 23,93304,Bakersfield,CA,USA
 1819, Connor, Hill,6379 Laurel Drive,,93304,Bakersfield,CA,USA
-1820, Brooke," Yu
-",4876 Laurel Drive,apt 10,93304,Bakersfield,CA,USA
+1820, Brooke, Yu,4876 Laurel Drive,apt 10,93304,Bakersfield,CA,USA
 1821, Avery, Reynolds,5512 Oakdale Avenue,apt 32,93301,Bakersfield,CA,USA
 1822, James, Roman,4063 Dogwood Lane,,93304,Bakersfield,CA,USA
 1823, King, Barry,8543 Cherry Avenue,,93309,Bakersfield,CA,USA
@@ -1895,8 +1863,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 1852, Tristan, Lopez,7620 Laurel Drive,,93304,Bakersfield,CA,USA
 1853, Lily, Campbell,422Main Street,,93301,Bakersfield,CA,USA
 1854, Christian, Rhodes,6603 Maplehurst Lane,,93301,Bakersfield,CA,USA
-1855, William," Yu
-",3151 Oak Lane,apt 49,93301,Bakersfield,CA,USA
+1855, William, Yu,3151 Oak Lane,apt 49,93301,Bakersfield,CA,USA
 1856, Natalie, Hill,4406 Dogwood Drive,,93301,Bakersfield,CA,USA
 1857, Taylor, Bender,9527 Lakeview Drive,apt 14,93304,Bakersfield,CA,USA
 1858, Stella, Cummings,4760 Laurel Lane,,93304,Bakersfield,CA,USA
@@ -2134,8 +2101,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 2088, Harrison, White,4540 Elmwood Lane,,93301,Bakersfield,CA,USA
 2089, Zoey, Sanchez,8576 Oak Street,,93304,Bakersfield,CA,USA
 2090, Wyatt, Hart,5784 Chestnut Drive,bldg 45,93308,Bakersfield,CA,USA
-2091, Claire," Yu
-",4095 Redwood Avenue,bldg 20,93301,Bakersfield,CA,USA
+2091, Claire, Yu,4095 Redwood Avenue,bldg 20,93301,Bakersfield,CA,USA
 2092, Thomas, Brown,510 Sycamore Avenue,,93304,Bakersfield,CA,USA
 2093, Emma, Wilkins,8914 Birch Lane,,93301,Bakersfield,CA,USA
 2094, Emily, Bowers,6981 Chestnut Drive,apt 4,93304,Bakersfield,CA,USA
@@ -2168,9 +2134,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 2121, Sophie, Allen,4044 Dogwood Avenue,,93309,Bakersfield,CA,USA
 2122, Zachary, Henderson,9950 Lakeview Drive,,93304,Bakersfield,CA,USA
 2123, Claire, Casey,4139 Sycamore Boulevard,,93301,Bakersfield,CA,USA
-2124," Raegan
-
-", Hill,6336 Lincoln Road,,93308,Bakersfield,CA,USA
+2124,Raegan, Hill,6336 Lincoln Road,,93308,Bakersfield,CA,USA
 2125, Christopher, Bailey,7507 Willow Lane,bldg 23,93304,Bakersfield,CA,USA
 2126, Morgan, Owens,5672 McKinley Road,,93304,Bakersfield,CA,USA
 2127, Hunter, Hart,5075 Magnolia Avenue,,93301,Bakersfield,CA,USA
@@ -2261,9 +2225,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 2211, Elena, Riley,8355 Maplewood Avenue,unit 12,93304,Bakersfield,CA,USA
 2212, Harley, Hopkins,9164 Hoover Street,,93308,Bakersfield,CA,USA
 2213, James, Duncan,1604 Adams Lane,,93304,Bakersfield,CA,USA
-2214," Raegan
-
-", Carter,9372 Lincoln Road,apt 46,93304,Bakersfield,CA,USA
+2214,Raegan, Carter,9372 Lincoln Road,apt 46,93304,Bakersfield,CA,USA
 2215, Madelyn, Ford,3974 Maplewood Road,,93301,Bakersfield,CA,USA
 2216, Annabelle, Cook,4892 Eisenhower Avenue,,93307,Bakersfield,CA,USA
 2217, Dominic, Burgess,4263 Arthur Road,,93304,Bakersfield,CA,USA
@@ -2319,9 +2281,7 @@ customer_id,first_name,last_name,address,sec_address,zipcode,city,state,Country
 2267, Colton, Gonzalez,5786 Willowcrest Lane,,93301,Bakersfield,CA,USA
 2268, Lucy, Duffy,4741 Dogwood Lane,,93304,Bakersfield,CA,USA
 2269, Adrian, Reynolds,7052 Elm Lane,,93309,Bakersfield,CA,USA
-2270," Raegan
-
-", Barry,4903 Cleveland Avenue,unit 11,93304,Bakersfield,CA,USA
+2270,Raegan, Barry,4903 Cleveland Avenue,unit 11,93304,Bakersfield,CA,USA
 2271, Ariana, Hill,95 Birchwood Boulevard,,93301,Bakersfield,CA,USA
 2272, Nora, Hendricks,2702 Redwood Lane,,93304,Bakersfield,CA,USA
 2273, Mia, Sanchez,1622 Laurel Boulevard,,93306,Bakersfield,CA,USA
