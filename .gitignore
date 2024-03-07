@@ -1,3 +1,5 @@
-venv/,
+venv/
 
 .vscode/
+
+jugos_rodier.session.sql
