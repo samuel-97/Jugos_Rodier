@@ -37,7 +37,3 @@ tables.
 
 Once the data was successfully loaded, I wrote down the questions that I wanted to answer about my database and 
 practiced my querying ninja skills to answer them. 
-
-
-FUTURE: 
-After a Tableau dashboard is created, I may iterate on this project to introduce more complexity into my project using branches. The python code used to create the transactions is fairly simple and I have many ideas on how I can introduce biases and other quirks so that the data can be used for practice.
